@@ -35,5 +35,11 @@
 ### 2017.03.09
 
 + 论文
-  + 15:30-17:30 完成2相关工作2.2.1-2.4，
+  + 15:30-17:30 完成 2相关工作2.2.1-2.2.2
+  + 24:00-02:00 完成 2.3部分
+
+
+## 工作心得
+
+[我没有偷懒=。=](https://github.com/DuanSky22/GraduationThesis/tree/master/notes/insight/Witerfell.md)
 
