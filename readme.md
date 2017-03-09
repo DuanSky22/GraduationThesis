@@ -41,5 +41,5 @@
 
 ## 工作心得
 
-[我没有偷懒=。=](https://github.com/DuanSky22/GraduationThesis/tree/master/notes/insight/Witerfell.md)
+[我没有偷懒=。=](https://github.com/DuanSky22/GraduationThesis/blob/master/notes/insight/Winterfell.md)
 
