@@ -120,6 +120,13 @@
   + 22:40-01:30 HzGraphFlow系统的RESTful模块设计实现完毕，现在可以通过外部服务器访问内存数据。
   + 01:30-02:00 HzGraphFlow系统的测试脚本编写完毕。
 
+### 2017.03.18-2017.03.24
+
++ 系统
+  + 完成GraphFlow系统的并行化开发。
+  + 完成GraphBenchmark开发。
+  + 完成系统的实时性、准确性和冲突检测三个方面的测试。
+
 ## 工作心得
 
 [我没有偷懒=。=](https://github.com/DuanSky22/GraduationThesis/blob/master/notes/insight/Winterfell.md)
