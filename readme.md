@@ -127,6 +127,16 @@
   + 完成GraphBenchmark开发。
   + 完成系统的实时性、准确性和冲突检测三个方面的测试。
 
+### 2017.03.27
+
++ 系统
+  + 完成GraphFlow系统的部署。
++ 论文
+  + 完成论文的校验。论文初稿v0.2完成。
++ 补充
+  + 系统PageRank算法的正确性没有测试。
+  + 论文的静态图划分没有写，图片编号没有调整。
+
 ## 工作心得
 
 [我没有偷懒=。=](https://github.com/DuanSky22/GraduationThesis/blob/master/notes/insight/Winterfell.md)
