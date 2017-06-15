@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hazelcast>
+	<servers>localhost,133.133.10.1,133.133.10.11</servers>
+	<group>
+		<name>graphflow</name>
+		<password>graphflow</password>
+	</group>
+</hazelcast>
